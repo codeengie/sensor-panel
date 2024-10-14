@@ -11,6 +11,20 @@ Sensor panel skins for Rainmeter and AIDA64 provide PC enthusiasts with a powerf
 + **AIDA64** (paid version)
 + **Rainmeter**
 
+### Installation
+1. Clone the repository:
+```bash
+git@gitlab.com:codeengie/sensor-panel.git
+```
+2. Navigate into the project directory:
+```bash
+cd sensor-panel
+```
+3. Symlink skin folder:
+```bash
+mklink /D "[Put Your Rainmeter Skins Directory]" "[Your Code Directory]"
+```
+
 ## Developer
 [Cesar Villanueva](https://ardentforms.com)
 
