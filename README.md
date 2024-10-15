@@ -14,7 +14,7 @@ Sensor panel skins for Rainmeter and AIDA64 provide PC enthusiasts with a powerf
 ### Installation
 1. Clone the repository:
 ```bash
-git@something.com:codeengie/sensor-panel.git
+git@github.com:codeengie/sensor-panel.git
 ```
 2. Navigate into the project directory:
 ```bash
@@ -29,4 +29,10 @@ mklink /D "[Put Your Rainmeter Skins Directory]" "[Your Code Directory]"
 [Cesar Villanueva](https://ardentforms.com)
 
 ## License
-+ You do not have my written, implied or expressed permission to use
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+This license allows you to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the following conditions:
+
+- The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+- The software is provided "as is", without warranty of any kind.
